@@ -24,14 +24,12 @@ Launch site
 Payload mass
 Orbit type
 Landing outcome (success/failure)
+
 Installation
 To get started with this project, clone the repository and install the required dependencies.
-
-bash
-Copy code
-git clone https://github.com/yourusername/spacex-landing-prediction.git
 cd spacex-landing-prediction
 pip install -r requirements.txt
+
 Usage
 Follow these steps to run the project:
 
